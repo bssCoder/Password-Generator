@@ -10,7 +10,7 @@ This is a simple web application that generates random passwords based on user-d
 
 ## Demo
 
-You can view a live demo of the application here (https://password-generator-bhawani-shankar-sarswats-projects.vercel.app/)
+You can view a live demo of the application here [Password](https://password-generator-bhawani-shankar-sarswats-projects.vercel.app/)
 
 ## Technologies Used
 
